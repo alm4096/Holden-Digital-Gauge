@@ -24,17 +24,17 @@ This is a follow on from my previous GitHub https://github.com/alm4096/Holden-OB
 
 The following parts are needed:
 * 10x 2.54mm 40pin Headers, cut to side
-![Header](Components\40Pin.jpg)
+![Header](Components/40Pin.jpg)
 * 1x ESP32 C3 Supermini
-![ESP32](Components\ESP32C3.jpg)
+![ESP32](Components/ESP32C3.jpg)
 * 1x 2.8" LCD ILI9341 w SD (Touch optional but you might as well get it as it isn't much extra)
-![LCD](Components\LCD.jpg)
+![LCD](Components/LCD.jpg)
 * 1x MCP2515 Can Bus Module
-![MCP2515](Components\MCP2515.jpg)
+![MCP2515](Components/MCP2515.jpg)
 * 1x YF08E Level Shifter Module
-![Level Shifter](Components\LevelShifter.jpg)
+![Level Shifter](Components/LevelShifter.jpg)
 * 1x TEMT6000 Light Sensor Module
-![Light Sensor](Components\TEMT6000.jpg)
+![Light Sensor](Components/TEMT6000.jpg)
 * 1x DC-DC Step Down Power Supply
-![Power Supply](Components\PowerModule.jpg)
+![Power Supply](Components/PowerModule.jpg)
 
