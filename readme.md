@@ -4,7 +4,7 @@
 
 ## About
 
-This project reads high speed GM CanBus messages from the OBDII Port on Holden VE/VF/WN/WM Commodores including extended PIDs and displays the information on an LCD Touch Screen using gauges and graphs. Logging functionality will be added once I have parts.<br>
+This project reads high speed GM CanBus messages from the OBDII Port on Holden VE/VF/WN/WM Commodores including extended PIDs and displays the information on an LCD Touch Screen using gauges and graphs. Logging functionality will be added once I have parts. This project can read things like Automatic Transmission temperature and other Extended PIDs that usually need paid apps or expensive hardware to access.<br>
 ![LCD Display](Display.jpg)
 
 ## Folders
